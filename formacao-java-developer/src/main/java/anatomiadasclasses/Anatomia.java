@@ -1,5 +1,5 @@
 package anatomiadasclasses;
-
+/*
 public static class Anatomia {
     /*Declarando Metodos*/
 
@@ -9,14 +9,18 @@ public static class Anatomia {
 
     /*String formatarCep (long cep){
       }*/
+    /*
     String primeiroNome = "Thiago";
     String segundoNome = "Vinicius";
     String nomeCompleto = nomeCompleto(primeiroNome, segundoNome);
 
-    System.out.println(nomeCompleto);
+    //System.out.println(nomeCompleto);
 }
 
     public static String nomeCompleto (String primeiroNome, String segundoNome){
     //  return primeiroNome.concat(" ").concat(segundoNome);
     return "Resultado do metodo " + primeiroNome.concat(" ").concat(segundoNome);
+
+
 }
+*/
