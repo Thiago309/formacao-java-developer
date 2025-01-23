@@ -10,4 +10,15 @@ public class metodo {
     * O metodo possui o risco de apresentar alguma exceção?
     * Qual a visibilidade do metodo?
     */
+
+    /*
+    int dividendo = 6, divisor = 2;
+
+    public double dividir(dividendo, divisor) throws Exception{
+    }
+
+    */
+
+
+
 }
