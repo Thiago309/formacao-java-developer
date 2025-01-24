@@ -22,6 +22,6 @@ package javaBasico.terminaleargumentos;
 public class Terminal {
     public static void main(String[] Args){
         System.out.println("Oi turma, fui executado pelo Terminal.");
-        
+
     }
 }
