@@ -1,4 +1,4 @@
-package projeto1;
+package javaBasico.projeto1;
 
 public class SmartTv {
     boolean ligada = false;

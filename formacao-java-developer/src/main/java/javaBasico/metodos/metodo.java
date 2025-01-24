@@ -1,4 +1,4 @@
-package metodos;
+package javaBasico.metodos;
 
 public class metodo {
     // Apresentação de criterios para criação de metodos, parâmetros e visibilidade.

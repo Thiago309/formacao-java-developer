@@ -1,4 +1,4 @@
-package tiposevariaveis;
+package javaBasico.tiposevariaveis;
 
 public class TipoeVariavel {
 

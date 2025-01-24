@@ -1,4 +1,4 @@
-package anatomiadasclasses;
+package javaBasico.anatomia;
 /*
 public static class Anatomia {
     /*Declarando Metodos*/

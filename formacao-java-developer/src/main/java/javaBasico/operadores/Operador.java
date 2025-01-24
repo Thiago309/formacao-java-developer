@@ -1,4 +1,4 @@
-package operadores;
+package javaBasico.operadores;
 /*
 public class Operadores {
     String concatenacao = "?";
